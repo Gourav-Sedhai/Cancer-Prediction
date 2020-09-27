@@ -1,5 +1,5 @@
 # Breast-Cancer-Prediction
-Breast Cancer Prediction
+Breast Cancer Prediction.
 -------------------------
 About:
 -----
